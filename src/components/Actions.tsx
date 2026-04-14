@@ -17,7 +17,7 @@ const Actions = () => {
       </motion.div>
       <motion.div whileHover={{ scale: 1.03 }} whileTap={{ scale: 0.98 }}>
         <a
-          href="https://drive.google.com/file/d/1CBR8_YrA9hBEaJWmsiKc9BY1O6BwqWaA/view?usp=drivesdk"
+          href="https://drive.google.com/file/d/1nSWSviZWw5A3pYqg8MOSBZ8TrlLk6hKc/view?usp=drivesdk"
           target="_blank"
           rel="noopener noreferrer"
           className="group inline-flex items-center gap-2 px-7 py-2.5 rounded-xl font-bold border-2 border-foreground/15 dark:border-white/20 text-foreground bg-card/40 backdrop-blur-sm hover:border-accent/50 hover:bg-accent/5 transition-all duration-300"
